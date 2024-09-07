@@ -1,0 +1,13 @@
+.vertical_rl {
+    writing-mode: vertical-rl;
+  }
+  
+  .text_mixed {
+    text-orientation: mixed;
+  }
+  .demo:active{
+    background-color: yellow !important;
+  }
+  
+  
+  
